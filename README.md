@@ -10,6 +10,10 @@ Pas de librairies CSS ou JS utilisées pour ce projet
 ## Project setup
 
 ```
+cd tic-tac-toe
+```
+
+```
 npm install
 ```
 
